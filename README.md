@@ -1,9 +1,22 @@
-### Hi there 👋
+### Hi there I'm Mikul (mikvlll)👋
+
+I'm a 15 yo programmer from Poland. 
+
+### My main languages:
+- Java,
+- PHP,
+- JavaScript
+
+### Learning:
+- web development (React.js)
+
+I am also amator in networking, but I love create TCP / UDP servers and clients.
+
+### Contact:
+- Discord: Mikul#3320
+
 
 <!--
-**mikvlll/mikvlll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
