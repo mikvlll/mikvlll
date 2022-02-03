@@ -10,8 +10,6 @@ I'm a 15 yo programmer from Poland.
 ### Learning:
 - web development (React.js)
 
-I am also amator in networking, but I love create TCP / UDP servers and clients.
-
 ### Contact:
 - Discord: Mikul#3320
 
