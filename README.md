@@ -1,4 +1,4 @@
-# ❗ Hi, I'm Mateusz Mikulski 
+# ❗ Hi, I'm Mateusz Mikulski (Mikul)
 
 
 
