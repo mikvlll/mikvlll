@@ -1,4 +1,4 @@
-# Hi, I'm Mateusz Mikulski
+# ❗ Hi, I'm Mateusz Mikulski 
 
 
 
@@ -31,3 +31,7 @@ I'm 16 yo aspiring React Frontend Developer from Poland. In future I would like 
 ## Projekty
 
 - mikul.xyz (off)
+
+
+## Kontakt
+Discord: Mikul#3320
