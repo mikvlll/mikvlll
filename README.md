@@ -34,4 +34,4 @@ I'm 16 yo aspiring React Frontend Developer from Poland. In future I would like 
 
 
 ## Kontakt
-- Discord: Mikul#3320
+- <img src="https://img.shields.io/badge/Mikul%238335-%237289DA.svg?&logo=discord&logoColor=red">
